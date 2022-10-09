@@ -8,3 +8,6 @@ permalink: /LINKS/
 
 2. [Linux FHS](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)
    The Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS) defines the          directory structure and directory contents in Unix-like operating systems. This website helps me    understand FHS
+
+3. [Working of Demand Paging in Operating System](https://www.naukri.com/learning/articles/working-of-demand-paging-in-operating-system/)
+This website is about demand paging and also advantages and disadvatages of it.
