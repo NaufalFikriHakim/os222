@@ -11,3 +11,6 @@ permalink: /LINKS/
 
 3. [Working of Demand Paging in Operating System](https://www.naukri.com/learning/articles/working-of-demand-paging-in-operating-system/)
 This website is about demand paging and also advantages and disadvatages of it.
+
+4. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
+IPC is a mechanism that allows processes to communicate with each other and synchronize their actions.
