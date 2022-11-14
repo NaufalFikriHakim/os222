@@ -14,3 +14,6 @@ This website is about demand paging and also advantages and disadvatages of it.
 
 4. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
 IPC is a mechanism that allows processes to communicate with each other and synchronize their actions.
+
+16. [Deadlock in Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os/)
+This website explains about deadlocks in OS. The explanation is simple and easy to understand.
